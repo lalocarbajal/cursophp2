@@ -1,0 +1,13 @@
+<?php
+  define("MSG", "Hi SoloLearners!");
+  echo MSG;
+
+   // Outputs "Hi SoloLearners!"
+?> 
+
+<?php
+  define("MSG", " Hi SoloLearners!", true);
+  echo msg;
+
+  // Outputs "Hi SoloLearners!"
+?>
