@@ -1,0 +1,1 @@
+echo $names[1]; // Outputs "Amy"
